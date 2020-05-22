@@ -1,7 +1,8 @@
-package com.giftofhappiness.coderswag
+package com.giftofhappiness.coderswag.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.giftofhappiness.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
