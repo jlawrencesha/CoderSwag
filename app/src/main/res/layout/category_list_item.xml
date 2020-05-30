@@ -26,7 +26,7 @@
         android:id="@+id/categoryname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="HATS"
+        android:text="@string/hats"
         android:textAlignment="center"
         android:textColor="@android:color/background_light"
         android:textSize="24sp"
